@@ -3,9 +3,9 @@ textarea.past {
 }
 
 textarea.current {
-    background: red;
+    background: yellowgreen;
 }
 
 textarea.future {
-    background: green;
+    background: orangered;
 }
