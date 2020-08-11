@@ -1,0 +1,11 @@
+textarea.past {
+    background: white;
+}
+
+textarea.current {
+    background: red;
+}
+
+textarea.future {
+    background: green;
+}
